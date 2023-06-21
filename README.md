@@ -2,6 +2,8 @@
 
 > Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
 
+Aqui, você encontrará um espaço dedicado a exibir meu trabalho criativo e meu desenvolvimento profissional.
+
 ##
 ##### Visão geral
 * O projeto de portfólio consiste em um site responsivo, moderno e elegante, desenvolvido com as mais recentes tecnologias web. A interface é intuitiva e fácil de navegar, permitindo aos visitantes explorarem facilmente os diferentes projetos e informações fornecidas.
