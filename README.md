@@ -1,6 +1,6 @@
-# Projeto de Portfólio
+# Portfólio
 
-Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
+> Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apresentar minhas habilidades técnicas, experiência profissional e demonstrar meu estilo de desenvolvimento.
 
 ##
 ##### Visão geral
@@ -19,16 +19,13 @@ Este é o meu projeto de portfólio pessoal, este projeto tem como objetivo apre
 
 <div>
     <img height="30em" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img height="30em" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img height="30em" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img height="30em" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    
+    <img height="30em" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">    
 
 </div>
 <br>
 
->HTML5, CSS3 e JavaScript para a estrutura, estilo e interatividade do site.
-Frameworks como Bootstrap.
->Git para controle de versão e colaboração no desenvolvimento do projeto.
+> - HTML5, CSS3 para a estrutura, estilo e interatividade do site.
+> - Git para controle de versão e colaboração no desenvolvimento do projeto.
 
 ##
 
@@ -37,7 +34,7 @@ Frameworks como Bootstrap.
 Clone o repositório: 
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/marciiosouza/portfolio.git
 ```
 > Navegue até o diretório do projeto: cd nome-do-repositorio
 Abra o arquivo index.html em um navegador da web.
@@ -54,7 +51,9 @@ Se você deseja entrar em contato comigo, pode me encontrar nos seguintes canais
       
 </div>
 
-
+##
+### Licença
+Este projeto está licenciado sob a Licença MIT.
 ##
 
 ###### Sinta-se à vontade para explorar o projeto de portfólio e conhecer um pouco mais sobre mim e meu trabalho. Obrigado pela visita!
